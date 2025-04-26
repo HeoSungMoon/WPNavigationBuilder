@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D6F9F20D-4851-4041-EE9F-9EB7FA9D9229}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WPNavigationBuilder",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
