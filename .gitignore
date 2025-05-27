@@ -265,6 +265,7 @@ Saved/
 
 # Ignore CLion directory
 .idea/
+Binaries/
 
 # Ignore Rider directories
 /Engine/Plugins/Developer/RiderLink
